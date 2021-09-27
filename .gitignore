@@ -1,2 +1,5 @@
 config.json
 config
+
+node_modules/
+node_modules
